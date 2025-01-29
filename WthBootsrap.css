@@ -272,6 +272,7 @@ i {
   /* background-color: aqua; */
   padding: 2px 5px;
   color: white;
+  transition: 0.5s ease;
 }
 .footer .contact-icon a i:hover,
 .footer .contact-icon a:hover i:hover {
